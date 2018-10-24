@@ -1,0 +1,6 @@
+﻿  CartPoleCPP.cpp
+d:\fallclasses2018\cs5890\cartpolecpp\cartpolecpp\cartpolecpp.cpp(21): error C4700: uninitialized local variable 'action' used
+d:\fallclasses2018\cs5890\cartpolecpp\cartpolecpp\cartpolecpp.cpp(22): error C4700: uninitialized local variable 'theta' used
+d:\fallclasses2018\cs5890\cartpolecpp\cartpolecpp\cartpolecpp.cpp(25): error C4700: uninitialized local variable 'theta_dot' used
+d:\fallclasses2018\cs5890\cartpolecpp\cartpolecpp\cartpolecpp.cpp(36): error C4700: uninitialized local variable 'x_dot' used
+d:\fallclasses2018\cs5890\cartpolecpp\cartpolecpp\cartpolecpp.cpp(36): error C4700: uninitialized local variable 'x' used
